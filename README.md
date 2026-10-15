@@ -7,16 +7,17 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
-| LeetCode | 1 | 1 | 0 | 0 | - |
+| LeetCode | 2 | 1 | 1 | 0 | - |
 | GeeksforGeeks | 3 | 0 | 0 | 0 | 3 |
-| **Total** | **4** | **1** | **0** | **0** | **3** |
+| **Total** | **5** | **1** | **1** | **0** | **3** |
 
 ## Solved Problems
 
 | # | Problem | Platform | Difficulty | Language | Code |
 | --- | --- | --- | --- | --- | --- |
 | 1 | [66. Plus One](https://leetcode.com/problems/plus-one/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/66_PlusOne.py) |
-| 2 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/1_ToNWithoutLoop.py) |
-| 3 | [Floyd's triangle](https://practice.geeksforgeeks.org/problems/floyds-triangle1222/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_FloydsTriangle.py) |
-| 4 | [Print Hollow Rectangle](https://practice.geeksforgeeks.org/problems/hollow-rectangle-or-square/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_PrintHollowRectangle.py) |
+| 2 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/7_ReverseInteger.py) |
+| 3 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/1_ToNWithoutLoop.py) |
+| 4 | [Floyd's triangle](https://practice.geeksforgeeks.org/problems/floyds-triangle1222/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_FloydsTriangle.py) |
+| 5 | [Print Hollow Rectangle](https://practice.geeksforgeeks.org/problems/hollow-rectangle-or-square/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_PrintHollowRectangle.py) |
 <!-- COMMITDSA_END -->
