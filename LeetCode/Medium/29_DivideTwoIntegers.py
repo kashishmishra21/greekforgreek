@@ -34,6 +34,10 @@ class Solution(object):
                 count = count + count
             dividend = dividend - chunk
             quo = quo + count
-        return quo * sign
+        if sign == -1:
+            return -quo
+        else:
+            return quo
+            
 
 
