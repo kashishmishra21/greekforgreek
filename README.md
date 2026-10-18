@@ -75,6 +75,48 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
+| LeetCode | 8 | 4 | 4 | 0 | - |
+| GeeksforGeeks | 15 | 9 | 1 | 0 | 5 |
+| **Total** | **23** | **13** | **5** | **0** | **5** |
+
+## Solved Problems
+
+| # | Problem | Platform | Difficulty | Language | Code |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [4078. Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/4078_ThreeFibonacciSum.py) |
+| 2 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/643_MaximumAverageSubarrayI.py) |
+| 3 | [66. Plus One](https://leetcode.com/problems/plus-one/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/66_PlusOne.py) |
+| 4 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/67_AddBinary.py) |
+| 5 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/1343_NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.py) |
+| 6 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/29_DivideTwoIntegers.py) |
+| 7 | [4079. Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/4079_PrimeSubsetSelectionI.py) |
+| 8 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/7_ReverseInteger.py) |
+| 9 | [Find index](https://practice.geeksforgeeks.org/problems/find-index-1614919939--145853/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_FindIndex.py) |
+| 10 | [Inverted Right Angle Triangle Pattern](https://practice.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_InvertedRightAngleTrianglePattern.py) |
+| 11 | [Jumping through While](https://practice.geeksforgeeks.org/problems/jumping-through-while-python/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_JumpingThroughWhile.py) |
+| 12 | [Missing in Array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_MissingInArray.py) |
+| 13 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_SecondLargest.py) |
+| 14 | [Solid Right Angle Triangle Pattern](https://practice.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_SolidRightAngleTrianglePattern.py) |
+| 15 | [Test if tuple is distinct](https://practice.geeksforgeeks.org/problems/test-if-tuple-is-distinct/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_TestIfTupleIsDistinct.py) |
+| 16 | [The FizzBuzz Program](https://practice.geeksforgeeks.org/problems/the-fizzbuzz-program/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_TheFizzBuzzProgram.py) |
+| 17 | [While loop in Python](https://practice.geeksforgeeks.org/problems/while-loop-in-python/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_WhileLoopInPython.py) |
+| 18 | [Indexes of Subarray Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_IndexesOfSubarraySum.py) |
+| 19 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/1_ToNWithoutLoop.py) |
+| 20 | [Floyd's triangle](https://practice.geeksforgeeks.org/problems/floyds-triangle1222/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_FloydsTriangle.py) |
+| 21 | [Function With Return](https://practice.geeksforgeeks.org/problems/function-with-return-value/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_FunctionWithReturn.py) |
+| 22 | [Print GFG n times](https://practice.geeksforgeeks.org/problems/print-gfg-n-times/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_PrintGFGNTimes.py) |
+| 23 | [Print Hollow Rectangle](https://practice.geeksforgeeks.org/problems/hollow-rectangle-or-square/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_PrintHollowRectangle.py) |
+<!-- COMMITDSA_END -->
+
+<!-- COMMITDSA_START -->
+# DSA Portfolio
+
+Welcome to my DSA solutions portfolio! This repository contains my solved problems on LeetCode and GeeksforGeeks, synchronized automatically using [CommitDSA](https://github.com/aprshubh/CommitDSA).
+
+## Statistics
+
+| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
+| --- | --- | --- | --- | --- | --- |
 | LeetCode | 7 | 4 | 3 | 0 | - |
 | GeeksforGeeks | 15 | 9 | 1 | 0 | 5 |
 | **Total** | **22** | **13** | **4** | **0** | **5** |
