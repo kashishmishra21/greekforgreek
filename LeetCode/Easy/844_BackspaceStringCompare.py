@@ -37,11 +37,9 @@ class Solution(object):
                 else:
                     break
 
-        # If one string has no valid character left
             if i < 0 or j < 0:
                 return i == j
 
-        # Compare valid characters
             if s[i] != t[j]:
                 return False
 
