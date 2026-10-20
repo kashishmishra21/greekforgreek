@@ -34,6 +34,54 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 12 | 8 | 4 | 0 | - |
+| GeeksforGeeks | 17 | 10 | 1 | 0 | 6 |
+| **Total** | **29** | **18** | **5** | **0** | **6** |
+
+## Solved Problems
+
+| # | Problem | Platform | Difficulty | Language | Code |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/1047_RemoveAllAdjacentDuplicatesInString.py) |
+| 2 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/20_ValidParentheses.py) |
+| 3 | [4078. Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/4078_ThreeFibonacciSum.py) |
+| 4 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/643_MaximumAverageSubarrayI.py) |
+| 5 | [66. Plus One](https://leetcode.com/problems/plus-one/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/66_PlusOne.py) |
+| 6 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/67_AddBinary.py) |
+| 7 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/682_BaseballGame.py) |
+| 8 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/844_BackspaceStringCompare.py) |
+| 9 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/1343_NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.py) |
+| 10 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/29_DivideTwoIntegers.py) |
+| 11 | [4079. Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/4079_PrimeSubsetSelectionI.py) |
+| 12 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/7_ReverseInteger.py) |
+| 13 | [Find index](https://practice.geeksforgeeks.org/problems/find-index-1614919939--145853/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_FindIndex.py) |
+| 14 | [Inverted Right Angle Triangle Pattern](https://practice.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_InvertedRightAngleTrianglePattern.py) |
+| 15 | [Jumping through While](https://practice.geeksforgeeks.org/problems/jumping-through-while-python/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_JumpingThroughWhile.py) |
+| 16 | [Missing in Array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_MissingInArray.py) |
+| 17 | [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_ParenthesisChecker.py) |
+| 18 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_SecondLargest.py) |
+| 19 | [Solid Right Angle Triangle Pattern](https://practice.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_SolidRightAngleTrianglePattern.py) |
+| 20 | [Test if tuple is distinct](https://practice.geeksforgeeks.org/problems/test-if-tuple-is-distinct/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_TestIfTupleIsDistinct.py) |
+| 21 | [The FizzBuzz Program](https://practice.geeksforgeeks.org/problems/the-fizzbuzz-program/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_TheFizzBuzzProgram.py) |
+| 22 | [While loop in Python](https://practice.geeksforgeeks.org/problems/while-loop-in-python/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_WhileLoopInPython.py) |
+| 23 | [Indexes of Subarray Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_IndexesOfSubarraySum.py) |
+| 24 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/1_ToNWithoutLoop.py) |
+| 25 | [Bitwise Operators](https://practice.geeksforgeeks.org/problems/bitwise-operators-1597314674--135255/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_BitwiseOperators.py) |
+| 26 | [Floyd's triangle](https://practice.geeksforgeeks.org/problems/floyds-triangle1222/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_FloydsTriangle.py) |
+| 27 | [Function With Return](https://practice.geeksforgeeks.org/problems/function-with-return-value/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_FunctionWithReturn.py) |
+| 28 | [Print GFG n times](https://practice.geeksforgeeks.org/problems/print-gfg-n-times/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_PrintGFGNTimes.py) |
+| 29 | [Print Hollow Rectangle](https://practice.geeksforgeeks.org/problems/hollow-rectangle-or-square/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_PrintHollowRectangle.py) |
+<!-- COMMITDSA_END -->
+
+<!-- COMMITDSA_START -->
+# DSA Portfolio
+
+Welcome to my DSA solutions portfolio! This repository contains my solved problems on LeetCode and GeeksforGeeks, synchronized automatically using [CommitDSA](https://github.com/aprshubh/CommitDSA).
+
+## Statistics
+
+| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
+| --- | --- | --- | --- | --- | --- |
+| LeetCode | 12 | 8 | 4 | 0 | - |
 | GeeksforGeeks | 16 | 10 | 1 | 0 | 5 |
 | **Total** | **28** | **18** | **5** | **0** | **5** |
 
