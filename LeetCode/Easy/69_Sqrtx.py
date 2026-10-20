@@ -6,7 +6,9 @@ Difficulty   : Easy
 
 class Solution:
     def mySqrt(self, x: int) -> int:
-        if x <= 2:
+        if x <= 1 :
+            return 0
+        if x == 2 :
             return x-1
         i = 2
         while i * i <= x:
