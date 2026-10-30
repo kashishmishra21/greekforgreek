@@ -34,6 +34,87 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | Platform | Total Solved | Easy | Medium | Hard | Basic/School |
 | --- | --- | --- | --- | --- | --- |
 | LeetCode | 29 | 15 | 10 | 4 | - |
+| GeeksforGeeks | 33 | 13 | 4 | 0 | 16 |
+| **Total** | **62** | **28** | **14** | **4** | **16** |
+
+## Solved Problems
+
+| # | Problem | Platform | Difficulty | Language | Code |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/1_TwoSum.py) |
+| 2 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | LeetCode | Easy | PYTHON3 | [Code](./LeetCode/Easy/1_TwoSum.py) |
+| 3 | [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/1047_RemoveAllAdjacentDuplicatesInString.py) |
+| 4 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | Easy | PYTHON3 | [Code](./LeetCode/Easy/121_BestTimeToBuyAndSellStock.py) |
+| 5 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/20_ValidParentheses.py) |
+| 6 | [2619. Array Prototype Last](https://leetcode.com/problems/array-prototype-last/) | LeetCode | Easy | JAVASCRIPT | [Code](./LeetCode/Easy/2619_ArrayPrototypeLast.js) |
+| 7 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | LeetCode | Easy | PYTHON3 | [Code](./LeetCode/Easy/283_MoveZeroes.py) |
+| 8 | [3963. Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | LeetCode | Easy | PYTHON3 | [Code](./LeetCode/Easy/3963_CreateGridWithExactlyOnePath.py) |
+| 9 | [4078. Three Fibonacci Sum](https://leetcode.com/problems/three-fibonacci-sum/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/4078_ThreeFibonacciSum.py) |
+| 10 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/643_MaximumAverageSubarrayI.py) |
+| 11 | [66. Plus One](https://leetcode.com/problems/plus-one/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/66_PlusOne.py) |
+| 12 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/67_AddBinary.py) |
+| 13 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/682_BaseballGame.py) |
+| 14 | [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | LeetCode | Easy | PYTHON | [Code](./LeetCode/Easy/844_BackspaceStringCompare.py) |
+| 15 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | LeetCode | Easy | PYTHON3 | [Code](./LeetCode/Easy/9_PalindromeNumber.py) |
+| 16 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/1254_NumberOfClosedIslands.py) |
+| 17 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/128_LongestConsecutiveSequence.py) |
+| 18 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/1343_NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.py) |
+| 19 | [15. 3Sum](https://leetcode.com/problems/3sum/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/15_3Sum.py) |
+| 20 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/29_DivideTwoIntegers.py) |
+| 21 | [3619. Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/3619_CountIslandsWithTotalValueDivisibleByK.py) |
+| 22 | [3970. Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/3970_ShortestPathWithAtMostKConsecutiveIdenticalCharacters.py) |
+| 23 | [4079. Prime Subset Selection I](https://leetcode.com/problems/prime-subset-selection-i/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/4079_PrimeSubsetSelectionI.py) |
+| 24 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | LeetCode | Medium | PYTHON | [Code](./LeetCode/Medium/7_ReverseInteger.py) |
+| 25 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | LeetCode | Medium | PYTHON3 | [Code](./LeetCode/Medium/7_ReverseInteger.py) |
+| 26 | [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/) | LeetCode | Hard | PYTHON3 | [Code](./LeetCode/Hard/1569_NumberOfWaysToReorderArrayToGetSameBST.py) |
+| 27 | [2630. Memoize II](https://leetcode.com/problems/memoize-ii/) | LeetCode | Hard | JAVASCRIPT | [Code](./LeetCode/Hard/2630_MemoizeII.js) |
+| 28 | [3841. Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree/) | LeetCode | Hard | PYTHON3 | [Code](./LeetCode/Hard/3841_PalindromicPathQueriesInATree.py) |
+| 29 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | LeetCode | Hard | PYTHON3 | [Code](./LeetCode/Hard/4_MedianOfTwoSortedArrays.py) |
+| 30 | [Deque Operations](https://practice.geeksforgeeks.org/problems/deque-implementations/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_DequeOperations.py) |
+| 31 | [Find index](https://practice.geeksforgeeks.org/problems/find-index-1614919939--145853/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_FindIndex.py) |
+| 32 | [Intro to Dictionary](https://practice.geeksforgeeks.org/problems/intro-to-dictionary-python/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_IntroToDictionary.py) |
+| 33 | [Inverted Right Angle Triangle Pattern](https://practice.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_InvertedRightAngleTrianglePattern.py) |
+| 34 | [Jumping through While](https://practice.geeksforgeeks.org/problems/jumping-through-while-python/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_JumpingThroughWhile.py) |
+| 35 | [Missing in Array](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_MissingInArray.py) |
+| 36 | [Parenthesis Checker](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_ParenthesisChecker.py) |
+| 37 | [Second Largest](https://practice.geeksforgeeks.org/problems/second-largest3735/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_SecondLargest.py) |
+| 38 | [Slicing in String](https://practice.geeksforgeeks.org/problems/slicing-in-string-python/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_SlicingInString.py) |
+| 39 | [Solid Right Angle Triangle Pattern](https://practice.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_SolidRightAngleTrianglePattern.py) |
+| 40 | [Test if tuple is distinct](https://practice.geeksforgeeks.org/problems/test-if-tuple-is-distinct/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_TestIfTupleIsDistinct.py) |
+| 41 | [The FizzBuzz Program](https://practice.geeksforgeeks.org/problems/the-fizzbuzz-program/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_TheFizzBuzzProgram.py) |
+| 42 | [While loop in Python](https://practice.geeksforgeeks.org/problems/while-loop-in-python/1) | GeeksforGeeks | Easy | PYTHON | [Code](./GFG/Easy/0_WhileLoopInPython.py) |
+| 43 | [Count Set Bits in 1 to n](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_CountSetBitsIn1ToN.py) |
+| 44 | [Indexes of Subarray Sum](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_IndexesOfSubarraySum.py) |
+| 45 | [Two odd Occuring](https://practice.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_TwoOddOccuring.py) |
+| 46 | [Two Unique Among Pairs](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1) | GeeksforGeeks | Medium | PYTHON | [Code](./GFG/Medium/0_TwoUniqueAmongPairs.py) |
+| 47 | [1 to n Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/1_ToNWithoutLoop.py) |
+| 48 | [Bitwise Operators](https://practice.geeksforgeeks.org/problems/bitwise-operators-1597314674--135255/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_BitwiseOperators.py) |
+| 49 | [Floyd's triangle](https://practice.geeksforgeeks.org/problems/floyds-triangle1222/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_FloydsTriangle.py) |
+| 50 | [Function With Return](https://practice.geeksforgeeks.org/problems/function-with-return-value/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_FunctionWithReturn.py) |
+| 51 | [Input Boolean Value](https://practice.geeksforgeeks.org/problems/input-boolean-value/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_InputBooleanValue.py) |
+| 52 | [Print ascii value in python](https://practice.geeksforgeeks.org/problems/print-ascii-value-in-python/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_PrintAsciiValueInPython.py) |
+| 53 | [Print GFG n times](https://practice.geeksforgeeks.org/problems/print-gfg-n-times/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_PrintGFGNTimes.py) |
+| 54 | [Print Hollow Rectangle](https://practice.geeksforgeeks.org/problems/hollow-rectangle-or-square/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_PrintHollowRectangle.py) |
+| 55 | [Print Hollow Square](https://practice.geeksforgeeks.org/problems/print-square--105330/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_PrintHollowSquare.py) |
+| 56 | [Print with New Line](https://practice.geeksforgeeks.org/problems/the-new-line/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_PrintWithNewLine.py) |
+| 57 | [Print With Space](https://practice.geeksforgeeks.org/problems/print-with-space/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_PrintWithSpace.py) |
+| 58 | [Regex](https://practice.geeksforgeeks.org/problems/regex-python/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_Regex.py) |
+| 59 | [Stack Operations](https://practice.geeksforgeeks.org/problems/stacks-operations/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_StackOperations.py) |
+| 60 | [String Repetition and Separation in Python](https://practice.geeksforgeeks.org/problems/int-str--164410/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_StringRepetitionAndSeparationInPython.py) |
+| 61 | [Taking Input](https://practice.geeksforgeeks.org/problems/taking-input/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_TakingInput.py) |
+| 62 | [Type Conversion](https://practice.geeksforgeeks.org/problems/type-conversion--151956/1) | GeeksforGeeks | Basic | PYTHON | [Code](./GFG/Basic/0_TypeConversion.py) |
+<!-- COMMITDSA_END -->
+
+<!-- COMMITDSA_START -->
+# DSA Portfolio
+
+Welcome to my DSA solutions portfolio! This repository contains my solved problems on LeetCode and GeeksforGeeks, synchronized automatically using [CommitDSA](https://github.com/aprshubh/CommitDSA).
+
+## Statistics
+
+| Platform | Total Solved | Easy | Medium | Hard | Basic/School |
+| --- | --- | --- | --- | --- | --- |
+| LeetCode | 29 | 15 | 10 | 4 | - |
 | GeeksforGeeks | 32 | 12 | 4 | 0 | 16 |
 | **Total** | **61** | **27** | **14** | **4** | **16** |
 
