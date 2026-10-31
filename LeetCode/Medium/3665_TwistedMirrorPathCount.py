@@ -17,18 +17,16 @@ class Solution:
                 if dp[i][j] == 0:
                     continue
 
-                # Move right
+                # Right move
                 r, c = i, j + 1
-
                 while r < m and c < n and grid[r][c] == 1:
                     r += 1
 
                 if r < m and c < n:
                     dp[r][c] = (dp[r][c] + dp[i][j]) % MOD
 
-                # Move down
+                # Down move
                 r, c = i + 1, j
-
                 while r < m and c < n and grid[r][c] == 1:
                     c += 1
 
@@ -36,5 +34,3 @@ class Solution:
                     dp[r][c] = (dp[r][c] + dp[i][j]) % MOD
 
         return dp[m - 1][n - 1]
-
-
