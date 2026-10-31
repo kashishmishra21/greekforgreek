@@ -5,37 +5,29 @@ Difficulty   : Medium
 """
 
 class Solution:
-    def uniquePaths(self, grid):
+    def uniquePaths(self, grid: List[List[int]]) -> int:
         MOD = 10**9 + 7
         m, n = len(grid), len(grid[0])
 
-        dp = [[0] * n for _ in range(m)]
-        dp[0][0] = 1
+        # f[i][j][0]: enter (i, j) by moving down
+        # f[i][j][1]: enter (i, j) by moving right
+        f = [[[0, 0] for _ in range(n)] for _ in range(m)]
+        f[0][0][0] = 1
 
         for i in range(m):
             for j in range(n):
-                ways = dp[i][j]
-                if ways == 0:
-                    continue
+                if i > 0:
+                    if grid[i - 1][j] == 0:
+                        f[i][j][0] = f[i - 1][j][0] + f[i - 1][j][1]
+                    else:
+                        f[i][j][0] = f[i - 1][j][1]
+                    f[i][j][0] %= MOD
 
-                # Try moving right
-                r, c = i, j + 1
+                if j > 0:
+                    if grid[i][j - 1] == 0:
+                        f[i][j][1] = f[i][j - 1][0] + f[i][j - 1][1]
+                    else:
+                        f[i][j][1] = f[i][j - 1][0]
+                    f[i][j][1] %= MOD
 
-                while r < m and c < n and grid[r][c] == 1:
-                    r, c = r + 1, c
-
-                if r < m and c < n:
-                    dp[r][c] = (dp[r][c] + ways) % MOD
-
-                # Try moving down
-                r, c = i + 1, j
-
-                while r < m and c < n and grid[r][c] == 1:
-                    r, c = r, c + 1
-
-                if r < m and c < n:
-                    dp[r][c] = (dp[r][c] + ways) % MOD
-
-        return dp[m - 1][n - 1]
-
-
+        return (f[m - 1][n - 1][0] + f[m - 1][n - 1][1]) % MOD
